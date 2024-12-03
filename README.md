@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning, Python, SQL, Power, Mathematics and Statistics BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ssagwekar/ssagwekar.git](https://github.com/ssagwekar/ssagwekar.git)
+- 👨‍💻 All of my projects are available at [https://github.com/ssagwekar/ssagwekar.git](https://github.com/ssagwekar/Projects.git)
 
 - 📫 How to reach me **shubhamsagvekar438@gmail.com**
 
